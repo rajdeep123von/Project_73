@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   item: {
-    backgroundColor: 'pink',
+    backgroundColor: 'blue',
     padding:10,
     marginVertical: 8,
     marginHorizontal: 16,
@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
     height: 80,
     width:'100%',
     borderWidth: 2,
-    borderColor: 'pink',
+    borderColor: 'blue',
     justifyContent:'center',
     alignSelf: 'center',
   }
